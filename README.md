@@ -140,6 +140,12 @@
                     <p>by Arthur Conan Doyle</p>
                     <a href="#">Download</a>
                 </div>
+                <div class="book">
+                    <img src="images/harry_potter_sorcerers_stone.jpg" alt="Harry Potter and the Sorcerer's Stone Cover">
+                    <h3>Harry Potter and the Sorcerer's Stone</h3>
+                    <p>by J.K. Rowling</p>
+                    <a href="books/harry_potter_sorcerers_stone.pdf" download>Download</a>
+                </div>
             </div>
         </section>
 
@@ -159,3 +165,10 @@
     </footer>
 </body>
 </html>
+
+       
+        
+
+
+    
+    
